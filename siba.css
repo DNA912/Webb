@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+style {
+	
+	
+}
+
+
+header{
+	margin: 2% 42%;
+	color: rgba(245,200,0,1);
+	text-decoration-color: black;
+	text-decoration-line: overline;
+	
+	
+}
+h1 {
+	color: rgba(245,200,0,1);
+	text-decoration-color: black;
+	text-decoration-line: underline;
+}
+container  {
+	
+	display: flex;
+	flex-wrap: wrap;
+}
+section {
+	
+	
+	width: 300px;
+	height: 150px;
+	margin: auto;
+	background-color: rgba(245,200,0,1);
+	border-radius: 20px;
+	border-style: solid;
+	border-color: black;
+	text-align: center;
+	box-shadow: 0px 0px 120px rgba(245,200,0,1)
+	
+} 
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+article {
+	width: 350px;
+	height: 40px;
+	margin: auto;
+	background-image: linear-gradient(rgba(245,250,0,1),rgba(255,150,0,1));
+	border-style: solid;
+	border-color: black;
+	border-radius: 10px;
+	border-width: 3px;
+	
+	
+}
+
+footer {
+	width: 202px;
+	height: auto;
+	background-color: lightskyblue;
+	border-style: solid;
+	border-radius: 3px;
+	border-width: 1px;
+	border-color: black;
+	margin: auto;
+	box-shadow: 0px 0px 40px rgba(0,0,0,0.2);
+	
+}
+#blank{
+	height: auto;
+	width: 320px;
+	background-color: white;
+	margin: 0 auto;
+	
+	
+}
+
+h4 {
+	color: black;
+	
+}
